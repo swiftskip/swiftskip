@@ -66,4 +66,4 @@ MIT License - Feel free to use and modify, but please consider contributing back
 
 ---
 
-*Made with ❤️ by [SwiftSkip]. Support the project: [PayPal](https://www.paypal.com/ncp/payment/GE38HX3HZYT44)*
+*Made with ❤️ by SwiftSkip's person. Support the project: [PayPal](https://www.paypal.com/ncp/payment/GE38HX3HZYT44)*

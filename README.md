@@ -21,7 +21,7 @@ When an ad appears:
 
 ## ⚡ Installation
 
-1. 
+1. Go to Chrome Web Store (https://chromewebstore.google.com/detail/swiftskip-ad-skipper-spee/imbckmkknjehkcjcoaalnfncfedaeoml?authuser=0&hl=en)
 2. You're ready to go! Visit YouTube and enjoy faster ads
 
 ## 🎮 Usage
